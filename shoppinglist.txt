@@ -2,3 +2,5 @@ apples
 milk
 bread
 chocolate
+eggs
+onion
