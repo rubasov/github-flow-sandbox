@@ -4,3 +4,4 @@ bread
 chocolate
 eggs
 onion
+pears
